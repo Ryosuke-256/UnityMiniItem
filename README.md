@@ -2,5 +2,4 @@
 
 ・PlayerController
 ・Penlight
-・Audience
 ・GainAudio
